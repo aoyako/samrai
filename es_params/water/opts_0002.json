@@ -1,1 +1,502 @@
-[{"temperature_k": 283.6222071101944, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 285.09698181209524, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 305.72097237044613, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 276.8361340348424, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 297.15820301397616, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 302.29525966881806, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 280.6745355132081, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 275.3657459603166, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 284.1563567723038, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 299.4509030120573, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 295.64520414716554, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 279.16137881263063, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 290.4611649334366, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 299.92535028847846, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 290.0674231984793, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 298.4812119695089, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 311.8477786404399, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 300.4759072630874, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 288.82135544697667, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 280.64860214911795, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 286.9952662827141, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 293.5977520028871, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 308.79951406485975, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 304.17490475390804, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 285.88299455189417, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 310.1194683671186, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 291.99192841169724, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 300.90355622536725, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 277.44762877710167, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 277.3411066326188, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 281.23464400713254, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 308.52919532275524, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 300.345806852323, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 307.1210295657516, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 298.93116909958667, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 289.417902029373, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 293.81818318069077, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 296.8919923016924, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 307.6361613066495, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 290.6833218519028, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 308.84073130488366, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 297.7027171169147, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 306.3260295519284, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 293.0774913088836, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 300.8539407852882, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 286.71792717208336, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 294.068130209611, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 281.8071320367838, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 277.1875485326399, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 274.7042190580997, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 301.2310959386158, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 291.41290924820123, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 309.06043533568624, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 306.55905177029126, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 288.5602357877657, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 312.09742604422553, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 296.83674648178874, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 303.78778085942633, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 289.44397364361237, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 281.00520258534516, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 280.02974180022943, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 280.4068116395927, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 297.3063639206546, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 277.6645939053958, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 273.95667930203393, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 306.47162501289245, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 277.1358626854447, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 291.1791269708356, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 292.6952919835545, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 297.9648673618903, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 293.31576609760583, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 310.64438098740095, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 303.16847401874844, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 296.1331099602224, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 297.8448878702998, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 293.41721993487863, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 311.7408408607418, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 282.2231301437507, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 300.7143375053411, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 295.3585197619889, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 274.8404897881862, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 285.0033605495449, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 310.23743907268135, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 304.53484722453356, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 273.6735671257189, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 285.02240876345394, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 273.5525689882901, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 306.25048199504334, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 277.574007082442, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 275.4580638761564, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 312.4255231839475, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 290.9905900292039, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 285.8928479130981, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 275.1204805882595, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 288.74019471986986, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 287.79819197921364, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 294.0942147535743, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 273.43180526630965, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 279.07742544646345, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}, {"temperature_k": 281.55372369414954, "salinity_kg_kg": 0.0, "wind_speed_10m_ms": 0.0}]
+[
+    {
+        "temperature_k": 283.6222071101944,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 285.09698181209524,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 305.72097237044613,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 276.8361340348424,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 297.15820301397616,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 302.29525966881806,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 280.6745355132081,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 275.3657459603166,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 284.1563567723038,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 299.4509030120573,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 295.64520414716554,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 279.16137881263063,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 290.4611649334366,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 299.92535028847846,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 290.0674231984793,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 298.4812119695089,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 311.8477786404399,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 300.4759072630874,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 288.82135544697667,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 280.64860214911795,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 286.9952662827141,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 293.5977520028871,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 308.79951406485975,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 304.17490475390804,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 285.88299455189417,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 310.1194683671186,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 291.99192841169724,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 300.90355622536725,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 277.44762877710167,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 277.3411066326188,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 281.23464400713254,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 308.52919532275524,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 300.345806852323,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 307.1210295657516,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 298.93116909958667,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 289.417902029373,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 293.81818318069077,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 296.8919923016924,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 307.6361613066495,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 290.6833218519028,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 308.84073130488366,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 297.7027171169147,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 306.3260295519284,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 293.0774913088836,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 300.8539407852882,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 286.71792717208336,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 294.068130209611,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 281.8071320367838,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 277.1875485326399,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 274.7042190580997,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 301.2310959386158,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 291.41290924820123,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 309.06043533568624,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 306.55905177029126,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 288.5602357877657,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 312.09742604422553,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 296.83674648178874,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 303.78778085942633,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 289.44397364361237,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 281.00520258534516,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 280.02974180022943,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 280.4068116395927,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 297.3063639206546,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 277.6645939053958,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 273.95667930203393,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 306.47162501289245,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 277.1358626854447,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 291.1791269708356,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 292.6952919835545,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 297.9648673618903,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 293.31576609760583,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 310.64438098740095,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 303.16847401874844,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 296.1331099602224,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 297.8448878702998,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 293.41721993487863,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 311.7408408607418,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 282.2231301437507,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 300.7143375053411,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 295.3585197619889,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 274.8404897881862,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 285.0033605495449,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 310.23743907268135,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 304.53484722453356,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 273.6735671257189,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 285.02240876345394,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 273.5525689882901,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 306.25048199504334,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 277.574007082442,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 275.4580638761564,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 312.4255231839475,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 290.9905900292039,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 285.8928479130981,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 275.1204805882595,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 288.74019471986986,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 287.79819197921364,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 294.0942147535743,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 273.43180526630965,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 279.07742544646345,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    },
+    {
+        "temperature_k": 281.55372369414954,
+        "salinity_kg_kg": 0.0,
+        "wind_speed_10m_ms": 0.0
+    }
+]

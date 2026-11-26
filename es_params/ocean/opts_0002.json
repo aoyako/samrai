@@ -1,1 +1,502 @@
-[{"temperature_k": 284.70226195862494, "salinity_kg_kg": 0.010464485369972656, "wind_speed_10m_ms": 32.569029623771215}, {"temperature_k": 297.0774149099652, "salinity_kg_kg": 0.0036766376854038764, "wind_speed_10m_ms": 29.142421072471784}, {"temperature_k": 274.9820982022095, "salinity_kg_kg": 0.007516042934664138, "wind_speed_10m_ms": 10.998774716241524}, {"temperature_k": 295.02053131814444, "salinity_kg_kg": 0.026297320595023703, "wind_speed_10m_ms": 6.002490532213445}, {"temperature_k": 299.61768427475783, "salinity_kg_kg": 0.017305231632191487, "wind_speed_10m_ms": 16.91138693080511}, {"temperature_k": 311.80307972154924, "salinity_kg_kg": 0.025327375970964655, "wind_speed_10m_ms": 27.32259289238501}, {"temperature_k": 279.9646912570841, "salinity_kg_kg": 0.015664993323201048, "wind_speed_10m_ms": 13.838426622869324}, {"temperature_k": 308.6796551668918, "salinity_kg_kg": 0.020442638942783083, "wind_speed_10m_ms": 31.022557698907576}, {"temperature_k": 310.0676771133598, "salinity_kg_kg": 0.012725864024614975, "wind_speed_10m_ms": 18.8363954166303}, {"temperature_k": 276.1004300120413, "salinity_kg_kg": 0.027750353688089202, "wind_speed_10m_ms": 4.18174233731766}, {"temperature_k": 308.47884320139417, "salinity_kg_kg": 0.008076297901178014, "wind_speed_10m_ms": 27.192458459383346}, {"temperature_k": 298.2679835714102, "salinity_kg_kg": 0.033969452944577386, "wind_speed_10m_ms": 16.26169590702146}, {"temperature_k": 296.4391456705935, "salinity_kg_kg": 0.02066312776499987, "wind_speed_10m_ms": 34.484719396305124}, {"temperature_k": 308.73917655446473, "salinity_kg_kg": 0.017527446646365, "wind_speed_10m_ms": 24.54867753610349}, {"temperature_k": 292.1644046355344, "salinity_kg_kg": 0.03317424503226326, "wind_speed_10m_ms": 27.700725273198938}, {"temperature_k": 293.7206602080169, "salinity_kg_kg": 0.013561014985972402, "wind_speed_10m_ms": 8.648935640760577}, {"temperature_k": 274.49195353203993, "salinity_kg_kg": 0.004028144080739073, "wind_speed_10m_ms": 28.077979055439577}, {"temperature_k": 308.9599954737522, "salinity_kg_kg": 0.018257224835262244, "wind_speed_10m_ms": 33.407328187691185}, {"temperature_k": 312.07564851428526, "salinity_kg_kg": 0.015403805379232662, "wind_speed_10m_ms": 23.682480443134587}, {"temperature_k": 288.4521758178221, "salinity_kg_kg": 0.030635332568611926, "wind_speed_10m_ms": 7.8467964787308775}, {"temperature_k": 280.1023555552661, "salinity_kg_kg": 0.006871080603273381, "wind_speed_10m_ms": 24.152220690497543}, {"temperature_k": 273.71536521575587, "salinity_kg_kg": 0.004505314204452731, "wind_speed_10m_ms": 33.31987856753682}, {"temperature_k": 291.0593375446037, "salinity_kg_kg": 0.0039764447173056315, "wind_speed_10m_ms": 19.539942923358776}, {"temperature_k": 292.649281584814, "salinity_kg_kg": 0.024810896335342496, "wind_speed_10m_ms": 37.49372574915873}, {"temperature_k": 295.43623103524067, "salinity_kg_kg": 0.030015863774531026, "wind_speed_10m_ms": 24.69088546821133}, {"temperature_k": 311.70236705834793, "salinity_kg_kg": 0.02026205966427921, "wind_speed_10m_ms": 9.065042534365467}, {"temperature_k": 294.6919324546257, "salinity_kg_kg": 0.027561085485942733, "wind_speed_10m_ms": 1.6804715627474431}, {"temperature_k": 310.19109135378005, "salinity_kg_kg": 0.011845999991349348, "wind_speed_10m_ms": 31.382594297199994}, {"temperature_k": 285.0015299869755, "salinity_kg_kg": 0.00051324374121553, "wind_speed_10m_ms": 0.3922139618625531}, {"temperature_k": 275.9595631704823, "salinity_kg_kg": 0.033098677719123115, "wind_speed_10m_ms": 2.298207150992777}, {"temperature_k": 289.78446634902764, "salinity_kg_kg": 0.039275333727803945, "wind_speed_10m_ms": 12.73571996254704}, {"temperature_k": 288.6732635801707, "salinity_kg_kg": 0.0019605355825236836, "wind_speed_10m_ms": 14.641562290485531}, {"temperature_k": 272.31041672889944, "salinity_kg_kg": 0.020939231522218566, "wind_speed_10m_ms": 5.918515211608741}, {"temperature_k": 290.52275044369594, "salinity_kg_kg": 0.008395461029936251, "wind_speed_10m_ms": 12.092134652394652}, {"temperature_k": 283.62565640202115, "salinity_kg_kg": 0.024533107059615956, "wind_speed_10m_ms": 36.385320403376795}, {"temperature_k": 273.53462152293304, "salinity_kg_kg": 0.03847479832792306, "wind_speed_10m_ms": 8.362388766199164}, {"temperature_k": 303.6998438222952, "salinity_kg_kg": 0.022520927330236314, "wind_speed_10m_ms": 2.560969252975247}, {"temperature_k": 291.2074642320075, "salinity_kg_kg": 0.007392107377195188, "wind_speed_10m_ms": 26.747630342006936}, {"temperature_k": 307.56541263498735, "salinity_kg_kg": 0.03613311707955246, "wind_speed_10m_ms": 31.750216616730306}, {"temperature_k": 312.2129535521882, "salinity_kg_kg": 0.002109285735062043, "wind_speed_10m_ms": 24.585117966046273}, {"temperature_k": 283.21366758383806, "salinity_kg_kg": 0.003444632608058003, "wind_speed_10m_ms": 24.830163382651634}, {"temperature_k": 290.56140847816357, "salinity_kg_kg": 0.015425604675345582, "wind_speed_10m_ms": 32.18340262394999}, {"temperature_k": 294.2073588158847, "salinity_kg_kg": 0.03296123909659114, "wind_speed_10m_ms": 31.69804416217779}, {"temperature_k": 312.1072735557794, "salinity_kg_kg": 0.016240197163722176, "wind_speed_10m_ms": 24.206366617041436}, {"temperature_k": 272.8708126683505, "salinity_kg_kg": 0.038707919307472735, "wind_speed_10m_ms": 35.307706113708015}, {"temperature_k": 301.35254499953953, "salinity_kg_kg": 0.022375087501795062, "wind_speed_10m_ms": 7.703799015160802}, {"temperature_k": 283.88658157129873, "salinity_kg_kg": 0.021947655039639725, "wind_speed_10m_ms": 4.219219074668277}, {"temperature_k": 309.42387233021987, "salinity_kg_kg": 0.00012747082472468473, "wind_speed_10m_ms": 26.836172601433095}, {"temperature_k": 283.14219045146365, "salinity_kg_kg": 0.00820086926666029, "wind_speed_10m_ms": 18.623772460869937}, {"temperature_k": 276.2816954950564, "salinity_kg_kg": 0.03273149013077894, "wind_speed_10m_ms": 38.7113932065492}, {"temperature_k": 281.36812339640494, "salinity_kg_kg": 0.03775643065708348, "wind_speed_10m_ms": 25.63127438007723}, {"temperature_k": 300.81198313201315, "salinity_kg_kg": 0.014403901310643442, "wind_speed_10m_ms": 3.4766440059101367}, {"temperature_k": 296.27761804518155, "salinity_kg_kg": 0.01879863520825708, "wind_speed_10m_ms": 25.05902943698731}, {"temperature_k": 308.64272502238396, "salinity_kg_kg": 0.027711818966862527, "wind_speed_10m_ms": 9.65000839629704}, {"temperature_k": 288.57808177580347, "salinity_kg_kg": 0.006127772693327454, "wind_speed_10m_ms": 22.753125907564723}, {"temperature_k": 300.957791168287, "salinity_kg_kg": 0.03842115043682219, "wind_speed_10m_ms": 29.537702026785166}, {"temperature_k": 282.2894782278878, "salinity_kg_kg": 0.03890868215242495, "wind_speed_10m_ms": 10.378465021035117}, {"temperature_k": 284.3341072955336, "salinity_kg_kg": 0.016901633502756086, "wind_speed_10m_ms": 26.044135409138764}, {"temperature_k": 277.51733609708026, "salinity_kg_kg": 0.03806855683278144, "wind_speed_10m_ms": 20.717907288805392}, {"temperature_k": 292.1361486462765, "salinity_kg_kg": 0.027103123951929486, "wind_speed_10m_ms": 36.549753635760695}, {"temperature_k": 308.2489762426567, "salinity_kg_kg": 0.029475919448058337, "wind_speed_10m_ms": 4.470599524764287}, {"temperature_k": 275.39299287424353, "salinity_kg_kg": 0.007830540139868378, "wind_speed_10m_ms": 33.17277993858739}, {"temperature_k": 271.61837177825953, "salinity_kg_kg": 0.038512746472232656, "wind_speed_10m_ms": 31.570145754863034}, {"temperature_k": 309.3327937519936, "salinity_kg_kg": 0.029113247941118976, "wind_speed_10m_ms": 10.815418930376026}, {"temperature_k": 281.4678715744301, "salinity_kg_kg": 0.02859108733266343, "wind_speed_10m_ms": 3.0413280017906663}, {"temperature_k": 273.2913541123726, "salinity_kg_kg": 0.02980816250813096, "wind_speed_10m_ms": 27.983778526304963}, {"temperature_k": 292.3400035192101, "salinity_kg_kg": 0.011338498588094619, "wind_speed_10m_ms": 35.66132615485399}, {"temperature_k": 291.60997771099846, "salinity_kg_kg": 0.009736315160008516, "wind_speed_10m_ms": 14.201977881609782}, {"temperature_k": 291.8850756081647, "salinity_kg_kg": 0.0076152354750795275, "wind_speed_10m_ms": 7.265213080457009}, {"temperature_k": 297.0731869200916, "salinity_kg_kg": 0.0319602996663428, "wind_speed_10m_ms": 11.32523011343407}, {"temperature_k": 285.5564860413409, "salinity_kg_kg": 0.038924199810560646, "wind_speed_10m_ms": 26.850266447957225}, {"temperature_k": 282.59219392327935, "salinity_kg_kg": 0.02932894905937017, "wind_speed_10m_ms": 0.4705520635124083}, {"temperature_k": 311.3214211836326, "salinity_kg_kg": 0.0357046350653255, "wind_speed_10m_ms": 6.809123336719645}, {"temperature_k": 290.27354786563944, "salinity_kg_kg": 0.006144208444954118, "wind_speed_10m_ms": 23.902782725989663}, {"temperature_k": 311.61015589284153, "salinity_kg_kg": 0.039559305094299044, "wind_speed_10m_ms": 39.51411359783879}, {"temperature_k": 296.89752368429174, "salinity_kg_kg": 0.009822776609497095, "wind_speed_10m_ms": 17.43476574854926}, {"temperature_k": 275.30905514058037, "salinity_kg_kg": 0.009256091829515216, "wind_speed_10m_ms": 6.749134950242275}, {"temperature_k": 275.9782349395837, "salinity_kg_kg": 0.014338069151448267, "wind_speed_10m_ms": 6.029559654798211}, {"temperature_k": 298.03242711982557, "salinity_kg_kg": 0.001786059406794922, "wind_speed_10m_ms": 19.708659194644085}, {"temperature_k": 293.9605993622873, "salinity_kg_kg": 0.00974212012399577, "wind_speed_10m_ms": 16.97787110623912}, {"temperature_k": 310.3610446095577, "salinity_kg_kg": 0.026366128948203497, "wind_speed_10m_ms": 14.13168425894332}, {"temperature_k": 280.82173228902764, "salinity_kg_kg": 0.025806061306995566, "wind_speed_10m_ms": 37.595975960639365}, {"temperature_k": 278.38310494464355, "salinity_kg_kg": 0.024707699219284764, "wind_speed_10m_ms": 10.282042436040818}, {"temperature_k": 280.0407055719098, "salinity_kg_kg": 0.006366054424541492, "wind_speed_10m_ms": 12.271954266736799}, {"temperature_k": 290.45825540293595, "salinity_kg_kg": 0.03292281772652003, "wind_speed_10m_ms": 11.086798698359924}, {"temperature_k": 283.1935806615489, "salinity_kg_kg": 0.01676303443070145, "wind_speed_10m_ms": 29.347296646931746}, {"temperature_k": 284.6335866260441, "salinity_kg_kg": 0.0023512498804119544, "wind_speed_10m_ms": 12.92984352657232}, {"temperature_k": 302.5761953378995, "salinity_kg_kg": 0.007260780747179792, "wind_speed_10m_ms": 7.209894504348444}, {"temperature_k": 274.80977823632213, "salinity_kg_kg": 0.012019253723669113, "wind_speed_10m_ms": 30.22342548671549}, {"temperature_k": 299.1218102473417, "salinity_kg_kg": 0.014554520664898015, "wind_speed_10m_ms": 8.689444087870273}, {"temperature_k": 286.02004779931735, "salinity_kg_kg": 0.0008720077885553935, "wind_speed_10m_ms": 31.16255411188054}, {"temperature_k": 285.9136798958599, "salinity_kg_kg": 0.03349783121859981, "wind_speed_10m_ms": 33.877631141663464}, {"temperature_k": 293.98579156405935, "salinity_kg_kg": 0.0020139570349484615, "wind_speed_10m_ms": 10.296896653253839}, {"temperature_k": 281.28876543820553, "salinity_kg_kg": 0.017563107548023253, "wind_speed_10m_ms": 35.742664871971186}, {"temperature_k": 310.9267308741239, "salinity_kg_kg": 0.012086986620152333, "wind_speed_10m_ms": 4.363607156816651}, {"temperature_k": 290.37921746063756, "salinity_kg_kg": 0.017193240245186824, "wind_speed_10m_ms": 28.377391720892724}, {"temperature_k": 292.4790107876526, "salinity_kg_kg": 0.013800890791724538, "wind_speed_10m_ms": 2.817962421515263}, {"temperature_k": 301.9684886400939, "salinity_kg_kg": 0.012441258346621891, "wind_speed_10m_ms": 4.2364556764609995}, {"temperature_k": 281.8672512487559, "salinity_kg_kg": 0.01850142687020665, "wind_speed_10m_ms": 6.619380005467268}, {"temperature_k": 305.6573148046966, "salinity_kg_kg": 0.0048526205043424, "wind_speed_10m_ms": 27.466280781588857}]
+[
+    {
+        "temperature_k": 284.70226195862494,
+        "salinity_kg_kg": 0.010464485369972656,
+        "wind_speed_10m_ms": 32.569029623771215
+    },
+    {
+        "temperature_k": 297.0774149099652,
+        "salinity_kg_kg": 0.0036766376854038764,
+        "wind_speed_10m_ms": 29.142421072471784
+    },
+    {
+        "temperature_k": 274.9820982022095,
+        "salinity_kg_kg": 0.007516042934664138,
+        "wind_speed_10m_ms": 10.998774716241524
+    },
+    {
+        "temperature_k": 295.02053131814444,
+        "salinity_kg_kg": 0.026297320595023703,
+        "wind_speed_10m_ms": 6.002490532213445
+    },
+    {
+        "temperature_k": 299.61768427475783,
+        "salinity_kg_kg": 0.017305231632191487,
+        "wind_speed_10m_ms": 16.91138693080511
+    },
+    {
+        "temperature_k": 311.80307972154924,
+        "salinity_kg_kg": 0.025327375970964655,
+        "wind_speed_10m_ms": 27.32259289238501
+    },
+    {
+        "temperature_k": 279.9646912570841,
+        "salinity_kg_kg": 0.015664993323201048,
+        "wind_speed_10m_ms": 13.838426622869324
+    },
+    {
+        "temperature_k": 308.6796551668918,
+        "salinity_kg_kg": 0.020442638942783083,
+        "wind_speed_10m_ms": 31.022557698907576
+    },
+    {
+        "temperature_k": 310.0676771133598,
+        "salinity_kg_kg": 0.012725864024614975,
+        "wind_speed_10m_ms": 18.8363954166303
+    },
+    {
+        "temperature_k": 276.1004300120413,
+        "salinity_kg_kg": 0.027750353688089202,
+        "wind_speed_10m_ms": 4.18174233731766
+    },
+    {
+        "temperature_k": 308.47884320139417,
+        "salinity_kg_kg": 0.008076297901178014,
+        "wind_speed_10m_ms": 27.192458459383346
+    },
+    {
+        "temperature_k": 298.2679835714102,
+        "salinity_kg_kg": 0.033969452944577386,
+        "wind_speed_10m_ms": 16.26169590702146
+    },
+    {
+        "temperature_k": 296.4391456705935,
+        "salinity_kg_kg": 0.02066312776499987,
+        "wind_speed_10m_ms": 34.484719396305124
+    },
+    {
+        "temperature_k": 308.73917655446473,
+        "salinity_kg_kg": 0.017527446646365,
+        "wind_speed_10m_ms": 24.54867753610349
+    },
+    {
+        "temperature_k": 292.1644046355344,
+        "salinity_kg_kg": 0.03317424503226326,
+        "wind_speed_10m_ms": 27.700725273198938
+    },
+    {
+        "temperature_k": 293.7206602080169,
+        "salinity_kg_kg": 0.013561014985972402,
+        "wind_speed_10m_ms": 8.648935640760577
+    },
+    {
+        "temperature_k": 274.49195353203993,
+        "salinity_kg_kg": 0.004028144080739073,
+        "wind_speed_10m_ms": 28.077979055439577
+    },
+    {
+        "temperature_k": 308.9599954737522,
+        "salinity_kg_kg": 0.018257224835262244,
+        "wind_speed_10m_ms": 33.407328187691185
+    },
+    {
+        "temperature_k": 312.07564851428526,
+        "salinity_kg_kg": 0.015403805379232662,
+        "wind_speed_10m_ms": 23.682480443134587
+    },
+    {
+        "temperature_k": 288.4521758178221,
+        "salinity_kg_kg": 0.030635332568611926,
+        "wind_speed_10m_ms": 7.8467964787308775
+    },
+    {
+        "temperature_k": 280.1023555552661,
+        "salinity_kg_kg": 0.006871080603273381,
+        "wind_speed_10m_ms": 24.152220690497543
+    },
+    {
+        "temperature_k": 273.71536521575587,
+        "salinity_kg_kg": 0.004505314204452731,
+        "wind_speed_10m_ms": 33.31987856753682
+    },
+    {
+        "temperature_k": 291.0593375446037,
+        "salinity_kg_kg": 0.0039764447173056315,
+        "wind_speed_10m_ms": 19.539942923358776
+    },
+    {
+        "temperature_k": 292.649281584814,
+        "salinity_kg_kg": 0.024810896335342496,
+        "wind_speed_10m_ms": 37.49372574915873
+    },
+    {
+        "temperature_k": 295.43623103524067,
+        "salinity_kg_kg": 0.030015863774531026,
+        "wind_speed_10m_ms": 24.69088546821133
+    },
+    {
+        "temperature_k": 311.70236705834793,
+        "salinity_kg_kg": 0.02026205966427921,
+        "wind_speed_10m_ms": 9.065042534365467
+    },
+    {
+        "temperature_k": 294.6919324546257,
+        "salinity_kg_kg": 0.027561085485942733,
+        "wind_speed_10m_ms": 1.6804715627474431
+    },
+    {
+        "temperature_k": 310.19109135378005,
+        "salinity_kg_kg": 0.011845999991349348,
+        "wind_speed_10m_ms": 31.382594297199994
+    },
+    {
+        "temperature_k": 285.0015299869755,
+        "salinity_kg_kg": 0.00051324374121553,
+        "wind_speed_10m_ms": 0.3922139618625531
+    },
+    {
+        "temperature_k": 275.9595631704823,
+        "salinity_kg_kg": 0.033098677719123115,
+        "wind_speed_10m_ms": 2.298207150992777
+    },
+    {
+        "temperature_k": 289.78446634902764,
+        "salinity_kg_kg": 0.039275333727803945,
+        "wind_speed_10m_ms": 12.73571996254704
+    },
+    {
+        "temperature_k": 288.6732635801707,
+        "salinity_kg_kg": 0.0019605355825236836,
+        "wind_speed_10m_ms": 14.641562290485531
+    },
+    {
+        "temperature_k": 272.31041672889944,
+        "salinity_kg_kg": 0.020939231522218566,
+        "wind_speed_10m_ms": 5.918515211608741
+    },
+    {
+        "temperature_k": 290.52275044369594,
+        "salinity_kg_kg": 0.008395461029936251,
+        "wind_speed_10m_ms": 12.092134652394652
+    },
+    {
+        "temperature_k": 283.62565640202115,
+        "salinity_kg_kg": 0.024533107059615956,
+        "wind_speed_10m_ms": 36.385320403376795
+    },
+    {
+        "temperature_k": 273.53462152293304,
+        "salinity_kg_kg": 0.03847479832792306,
+        "wind_speed_10m_ms": 8.362388766199164
+    },
+    {
+        "temperature_k": 303.6998438222952,
+        "salinity_kg_kg": 0.022520927330236314,
+        "wind_speed_10m_ms": 2.560969252975247
+    },
+    {
+        "temperature_k": 291.2074642320075,
+        "salinity_kg_kg": 0.007392107377195188,
+        "wind_speed_10m_ms": 26.747630342006936
+    },
+    {
+        "temperature_k": 307.56541263498735,
+        "salinity_kg_kg": 0.03613311707955246,
+        "wind_speed_10m_ms": 31.750216616730306
+    },
+    {
+        "temperature_k": 312.2129535521882,
+        "salinity_kg_kg": 0.002109285735062043,
+        "wind_speed_10m_ms": 24.585117966046273
+    },
+    {
+        "temperature_k": 283.21366758383806,
+        "salinity_kg_kg": 0.003444632608058003,
+        "wind_speed_10m_ms": 24.830163382651634
+    },
+    {
+        "temperature_k": 290.56140847816357,
+        "salinity_kg_kg": 0.015425604675345582,
+        "wind_speed_10m_ms": 32.18340262394999
+    },
+    {
+        "temperature_k": 294.2073588158847,
+        "salinity_kg_kg": 0.03296123909659114,
+        "wind_speed_10m_ms": 31.69804416217779
+    },
+    {
+        "temperature_k": 312.1072735557794,
+        "salinity_kg_kg": 0.016240197163722176,
+        "wind_speed_10m_ms": 24.206366617041436
+    },
+    {
+        "temperature_k": 272.8708126683505,
+        "salinity_kg_kg": 0.038707919307472735,
+        "wind_speed_10m_ms": 35.307706113708015
+    },
+    {
+        "temperature_k": 301.35254499953953,
+        "salinity_kg_kg": 0.022375087501795062,
+        "wind_speed_10m_ms": 7.703799015160802
+    },
+    {
+        "temperature_k": 283.88658157129873,
+        "salinity_kg_kg": 0.021947655039639725,
+        "wind_speed_10m_ms": 4.219219074668277
+    },
+    {
+        "temperature_k": 309.42387233021987,
+        "salinity_kg_kg": 0.00012747082472468473,
+        "wind_speed_10m_ms": 26.836172601433095
+    },
+    {
+        "temperature_k": 283.14219045146365,
+        "salinity_kg_kg": 0.00820086926666029,
+        "wind_speed_10m_ms": 18.623772460869937
+    },
+    {
+        "temperature_k": 276.2816954950564,
+        "salinity_kg_kg": 0.03273149013077894,
+        "wind_speed_10m_ms": 38.7113932065492
+    },
+    {
+        "temperature_k": 281.36812339640494,
+        "salinity_kg_kg": 0.03775643065708348,
+        "wind_speed_10m_ms": 25.63127438007723
+    },
+    {
+        "temperature_k": 300.81198313201315,
+        "salinity_kg_kg": 0.014403901310643442,
+        "wind_speed_10m_ms": 3.4766440059101367
+    },
+    {
+        "temperature_k": 296.27761804518155,
+        "salinity_kg_kg": 0.01879863520825708,
+        "wind_speed_10m_ms": 25.05902943698731
+    },
+    {
+        "temperature_k": 308.64272502238396,
+        "salinity_kg_kg": 0.027711818966862527,
+        "wind_speed_10m_ms": 9.65000839629704
+    },
+    {
+        "temperature_k": 288.57808177580347,
+        "salinity_kg_kg": 0.006127772693327454,
+        "wind_speed_10m_ms": 22.753125907564723
+    },
+    {
+        "temperature_k": 300.957791168287,
+        "salinity_kg_kg": 0.03842115043682219,
+        "wind_speed_10m_ms": 29.537702026785166
+    },
+    {
+        "temperature_k": 282.2894782278878,
+        "salinity_kg_kg": 0.03890868215242495,
+        "wind_speed_10m_ms": 10.378465021035117
+    },
+    {
+        "temperature_k": 284.3341072955336,
+        "salinity_kg_kg": 0.016901633502756086,
+        "wind_speed_10m_ms": 26.044135409138764
+    },
+    {
+        "temperature_k": 277.51733609708026,
+        "salinity_kg_kg": 0.03806855683278144,
+        "wind_speed_10m_ms": 20.717907288805392
+    },
+    {
+        "temperature_k": 292.1361486462765,
+        "salinity_kg_kg": 0.027103123951929486,
+        "wind_speed_10m_ms": 36.549753635760695
+    },
+    {
+        "temperature_k": 308.2489762426567,
+        "salinity_kg_kg": 0.029475919448058337,
+        "wind_speed_10m_ms": 4.470599524764287
+    },
+    {
+        "temperature_k": 275.39299287424353,
+        "salinity_kg_kg": 0.007830540139868378,
+        "wind_speed_10m_ms": 33.17277993858739
+    },
+    {
+        "temperature_k": 271.61837177825953,
+        "salinity_kg_kg": 0.038512746472232656,
+        "wind_speed_10m_ms": 31.570145754863034
+    },
+    {
+        "temperature_k": 309.3327937519936,
+        "salinity_kg_kg": 0.029113247941118976,
+        "wind_speed_10m_ms": 10.815418930376026
+    },
+    {
+        "temperature_k": 281.4678715744301,
+        "salinity_kg_kg": 0.02859108733266343,
+        "wind_speed_10m_ms": 3.0413280017906663
+    },
+    {
+        "temperature_k": 273.2913541123726,
+        "salinity_kg_kg": 0.02980816250813096,
+        "wind_speed_10m_ms": 27.983778526304963
+    },
+    {
+        "temperature_k": 292.3400035192101,
+        "salinity_kg_kg": 0.011338498588094619,
+        "wind_speed_10m_ms": 35.66132615485399
+    },
+    {
+        "temperature_k": 291.60997771099846,
+        "salinity_kg_kg": 0.009736315160008516,
+        "wind_speed_10m_ms": 14.201977881609782
+    },
+    {
+        "temperature_k": 291.8850756081647,
+        "salinity_kg_kg": 0.0076152354750795275,
+        "wind_speed_10m_ms": 7.265213080457009
+    },
+    {
+        "temperature_k": 297.0731869200916,
+        "salinity_kg_kg": 0.0319602996663428,
+        "wind_speed_10m_ms": 11.32523011343407
+    },
+    {
+        "temperature_k": 285.5564860413409,
+        "salinity_kg_kg": 0.038924199810560646,
+        "wind_speed_10m_ms": 26.850266447957225
+    },
+    {
+        "temperature_k": 282.59219392327935,
+        "salinity_kg_kg": 0.02932894905937017,
+        "wind_speed_10m_ms": 0.4705520635124083
+    },
+    {
+        "temperature_k": 311.3214211836326,
+        "salinity_kg_kg": 0.0357046350653255,
+        "wind_speed_10m_ms": 6.809123336719645
+    },
+    {
+        "temperature_k": 290.27354786563944,
+        "salinity_kg_kg": 0.006144208444954118,
+        "wind_speed_10m_ms": 23.902782725989663
+    },
+    {
+        "temperature_k": 311.61015589284153,
+        "salinity_kg_kg": 0.039559305094299044,
+        "wind_speed_10m_ms": 39.51411359783879
+    },
+    {
+        "temperature_k": 296.89752368429174,
+        "salinity_kg_kg": 0.009822776609497095,
+        "wind_speed_10m_ms": 17.43476574854926
+    },
+    {
+        "temperature_k": 275.30905514058037,
+        "salinity_kg_kg": 0.009256091829515216,
+        "wind_speed_10m_ms": 6.749134950242275
+    },
+    {
+        "temperature_k": 275.9782349395837,
+        "salinity_kg_kg": 0.014338069151448267,
+        "wind_speed_10m_ms": 6.029559654798211
+    },
+    {
+        "temperature_k": 298.03242711982557,
+        "salinity_kg_kg": 0.001786059406794922,
+        "wind_speed_10m_ms": 19.708659194644085
+    },
+    {
+        "temperature_k": 293.9605993622873,
+        "salinity_kg_kg": 0.00974212012399577,
+        "wind_speed_10m_ms": 16.97787110623912
+    },
+    {
+        "temperature_k": 310.3610446095577,
+        "salinity_kg_kg": 0.026366128948203497,
+        "wind_speed_10m_ms": 14.13168425894332
+    },
+    {
+        "temperature_k": 280.82173228902764,
+        "salinity_kg_kg": 0.025806061306995566,
+        "wind_speed_10m_ms": 37.595975960639365
+    },
+    {
+        "temperature_k": 278.38310494464355,
+        "salinity_kg_kg": 0.024707699219284764,
+        "wind_speed_10m_ms": 10.282042436040818
+    },
+    {
+        "temperature_k": 280.0407055719098,
+        "salinity_kg_kg": 0.006366054424541492,
+        "wind_speed_10m_ms": 12.271954266736799
+    },
+    {
+        "temperature_k": 290.45825540293595,
+        "salinity_kg_kg": 0.03292281772652003,
+        "wind_speed_10m_ms": 11.086798698359924
+    },
+    {
+        "temperature_k": 283.1935806615489,
+        "salinity_kg_kg": 0.01676303443070145,
+        "wind_speed_10m_ms": 29.347296646931746
+    },
+    {
+        "temperature_k": 284.6335866260441,
+        "salinity_kg_kg": 0.0023512498804119544,
+        "wind_speed_10m_ms": 12.92984352657232
+    },
+    {
+        "temperature_k": 302.5761953378995,
+        "salinity_kg_kg": 0.007260780747179792,
+        "wind_speed_10m_ms": 7.209894504348444
+    },
+    {
+        "temperature_k": 274.80977823632213,
+        "salinity_kg_kg": 0.012019253723669113,
+        "wind_speed_10m_ms": 30.22342548671549
+    },
+    {
+        "temperature_k": 299.1218102473417,
+        "salinity_kg_kg": 0.014554520664898015,
+        "wind_speed_10m_ms": 8.689444087870273
+    },
+    {
+        "temperature_k": 286.02004779931735,
+        "salinity_kg_kg": 0.0008720077885553935,
+        "wind_speed_10m_ms": 31.16255411188054
+    },
+    {
+        "temperature_k": 285.9136798958599,
+        "salinity_kg_kg": 0.03349783121859981,
+        "wind_speed_10m_ms": 33.877631141663464
+    },
+    {
+        "temperature_k": 293.98579156405935,
+        "salinity_kg_kg": 0.0020139570349484615,
+        "wind_speed_10m_ms": 10.296896653253839
+    },
+    {
+        "temperature_k": 281.28876543820553,
+        "salinity_kg_kg": 0.017563107548023253,
+        "wind_speed_10m_ms": 35.742664871971186
+    },
+    {
+        "temperature_k": 310.9267308741239,
+        "salinity_kg_kg": 0.012086986620152333,
+        "wind_speed_10m_ms": 4.363607156816651
+    },
+    {
+        "temperature_k": 290.37921746063756,
+        "salinity_kg_kg": 0.017193240245186824,
+        "wind_speed_10m_ms": 28.377391720892724
+    },
+    {
+        "temperature_k": 292.4790107876526,
+        "salinity_kg_kg": 0.013800890791724538,
+        "wind_speed_10m_ms": 2.817962421515263
+    },
+    {
+        "temperature_k": 301.9684886400939,
+        "salinity_kg_kg": 0.012441258346621891,
+        "wind_speed_10m_ms": 4.2364556764609995
+    },
+    {
+        "temperature_k": 281.8672512487559,
+        "salinity_kg_kg": 0.01850142687020665,
+        "wind_speed_10m_ms": 6.619380005467268
+    },
+    {
+        "temperature_k": 305.6573148046966,
+        "salinity_kg_kg": 0.0048526205043424,
+        "wind_speed_10m_ms": 27.466280781588857
+    }
+]
